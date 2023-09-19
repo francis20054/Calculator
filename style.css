@@ -131,6 +131,14 @@ body {
   background-color: #a99c9c;
   border: none;
 }
+.footer {
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  user-select: text;
+}
 
 
 @media screen and (max-width: 590px) {
